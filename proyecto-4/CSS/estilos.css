@@ -1,0 +1,45 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: rgb(30,210,249);
+    font-size: 20pt;
+    font-style: oblique;
+    padding: 2px 20px;
+    color:black;
+
+}
+
+nav{
+    background-color: orange;
+    padding: 2px;
+    margin:0;
+
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+nav ul li a.activo{
+    color: white;
+;
+}
+
+footer{
+    background-color: rgb(30,210,249);
+    padding: 5px;
+    margin:0;
+    font-style: italic;
+    color: black;
+}
+
